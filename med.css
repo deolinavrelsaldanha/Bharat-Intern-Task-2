@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  header {
+    background-color: #000;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header img {
+    max-width: 200px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .hero {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .hero button {
+    background-color: #e50914;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .featured {
+    margin-bottom: 20px;
+  }
+  
+  .featured h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .movie {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .movie img {
+    width: 30%;
+    border-radius: 5px;
+  }
